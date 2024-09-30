@@ -2,8 +2,8 @@
 <html lang="en">
 
 <head>
-    Google tag (gtag.js)
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-M1DXJ2F7EQ"></script>
+    <!--  Google tag (gtag.js)-->
+    <!--<script async src="https://www.googletagmanager.com/gtag/js?id=G-M1DXJ2F7EQ"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
 
@@ -13,9 +13,9 @@
         gtag('js', new Date());
 
         gtag('config', 'G-M1DXJ2F7EQ');
-    </script>
+    </script>-->
     <!-- Google Tag Manager -->
-    <script>
+    <!-- <script>
         (function(w, d, s, l, i) {
             w[l] = w[l] || [];
             w[l].push({
@@ -30,11 +30,8 @@
                 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
             f.parentNode.insertBefore(j, f);
         })(window, document, 'script', 'dataLayer', 'GTM-P5XNKQGN');
-    </script>
+    </script>-->
     <!-- End Google Tag Manager -->
-
-
-
 
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -53,8 +50,8 @@
 <body>
 
     <!-- Google Tag Manager (noscript) -->
-    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P5XNKQGN"
-            height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P5XNKQGN"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>-->
     <!-- End Google Tag Manager (noscript) -->
     <!-- navbar -->
     <div class="container_fluid p-0">
@@ -109,6 +106,33 @@
                 </div>
             </div>
         </nav>
+
+        <!-- second child -->
+        <nav class="navbar navbar-expand-lg navbar-dark bg-secondary">
+            <ul class="navbar-nav me-auto">
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Welcome Guest</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Login</a>
+                </li>
+            </ul>
+        </nav>
+
+        <!-- third child -->
+        <div class="bg-light">
+            <h3 class="text-center">Dhe Reingers Hardware</h3>
+            <p class="text-center">⚒ Building Strong Foundations, One Tool at a Time 🛠</p>
+
+        </div>
+
+
+
+
+
+
+
+
 
         <!-- last child -->
         <div class="bg-info p-3 text-center">
