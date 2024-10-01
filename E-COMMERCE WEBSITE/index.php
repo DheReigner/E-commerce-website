@@ -124,7 +124,146 @@
             <h3 class="text-center">Dhe Reingers Hardware</h3>
             <p class="text-center">⚒ Building Strong Foundations, One Tool at a Time 🛠</p>
 
+        </div> <!-- fourth child -->
+        <div class="row">
+            <div class="col-md-10">
+                <!-- products -->
+                <div class="row">
+                    <div class="col-md-4 mb-2">
+                        <div class="card">
+                            <img src=" https://i.ytimg.com/vi/IxezUuoyREc/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLA6OYCePtPv0m1pM98peWYUsA8M_Q " class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <h5 class="card-title">Card title</h5>
+                                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                                <a href="#" class="btn btn-info">Add to cart</a>
+                                <a href="#" class="btn btn-secondary">View more</a>
+                            </div>
+                        </div>
+
+                    </div>
+                    <div class="col-md-4 mb-2">
+                        <div class="card">
+                            <img src=" https://reviewed-com-res.cloudinary.com/image/fetch/s--WUmC-u4K--/b_white,c_limit,cs_srgb,f_auto,fl_progressive.strip_profile,g_center,q_auto,w_972/https://reviewed-production.s3.amazonaws.com/1721055500879/Hero-20240711_CordlessDrillsTBRNHeroV4_Renzi.PNG " class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <h5 class="card-title">Card title</h5>
+                                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                                <a href="#" class="btn btn-info">Add to cart</a>
+                                <a href="#" class="btn btn-secondary">View more</a>
+                            </div>
+                        </div>
+
+                    </div>
+                    <div class="col-md-4 mb-2">
+                        <div class="card">
+                            <img src=" https://m.media-amazon.com/images/I/91pXzeIlp+L._AC_UF894,1000_QL80_.jpg " class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <h5 class="card-title">Card title</h5>
+                                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                                <a href="#" class="btn btn-info">Add to cart</a>
+                                <a href="#" class="btn btn-secondary">View more</a>
+                            </div>
+                        </div>
+
+                    </div>
+
+                    <div class="col-md-4 mb-2">
+                        <div class="card">
+                            <img src=" https://m.media-amazon.com/images/I/91pXzeIlp+L._AC_UF894,1000_QL80_.jpg " class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <h5 class="card-title">Card title</h5>
+                                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                                <a href="#" class="btn btn-info">Add to cart</a>
+                                <a href="#" class="btn btn-secondary">View more</a>
+                            </div>
+                        </div>
+
+                    </div>
+
+                    <div class="col-md-4 mb-2">
+                        <div class="card">
+                            <img src=" https://m.media-amazon.com/images/I/91pXzeIlp+L._AC_UF894,1000_QL80_.jpg " class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <h5 class="card-title">Card title</h5>
+                                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                                <a href="#" class="btn btn-info">Add to cart</a>
+                                <a href="#" class="btn btn-secondary">View more</a>
+                            </div>
+                        </div>
+
+                    </div>
+
+                    <div class="col-md-4 mb-2">
+                        <div class="card">
+                            <img src=" https://m.media-amazon.com/images/I/91pXzeIlp+L._AC_UF894,1000_QL80_.jpg " class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <h5 class="card-title">Card title</h5>
+                                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                                <a href="#" class="btn btn-info">Add to cart</a>
+                                <a href="#" class="btn btn-secondary">View more</a>
+                            </div>
+                        </div>
+
+                    </div>
+
+
+                </div>
+            </div>
+
+            <!-- sidenav -->
+            <div class="col-md-2 bg-secondary p-0">
+                <!-- brands to be displayed -->
+                <ul class="navbar-nav me-auto text-center">
+                    <li class="nav-item bg-info">
+                        <a href="#" class="nav-link text-light">
+                            <h4>Delivery Brands </h4>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#" class="nav-link text-light">Brand 1</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#" class="nav-link text-light">Brand 2</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#" class="nav-link text-light">Brand 3 </a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#" class="nav-link text-light">Brand 4</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#" class="nav-link text-light"> Brand 5</a>
+                    </li>
+                </ul>
+
+                <!-- categories to be displayed -->
+                <ul class="navbar-nav me-auto text-center">
+                    <li class="nav-item bg-info">
+                        <a href="#" class="nav-link text-light">
+                            <h4>Categories </h4>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#" class="nav-link text-light"> Categories 1 </a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#" class="nav-link text-light">Categories 2 </a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#" class="nav-link text-light">Categories 3</a>
+
+                    </li>
+                    <li class="nav-item">
+                        <a href="#" class="nav-link text-light ">Categories 4</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#" class="nav-link text-light">Categories 5</a>
+                    </li>
+                </ul>
+
+
+            </div>
         </div>
+    </div>
 
 
 
@@ -134,10 +273,14 @@
 
 
 
-        <!-- last child -->
-        <div class="bg-info p-3 text-center">
-            <p>All rights reserved © Designed by Martoh-2024</p>
-        </div>
+
+
+
+
+    <!-- last child -->
+    <div class="bg-info p-3 text-center">
+        <p>All rights reserved © Designed by Martoh-2024</p>
+    </div>
     </div>
 
     <!-- bootstrap js link -->
